@@ -12,7 +12,7 @@ This project is about Vehicle Tracking System. This system helps to track the ve
 
 ## Cost Estimation
 
-** Estimated cost = hours needed to build the entire automated system * cost per hour to build the automated system.
+**Estimated cost = hours needed to build the entire automated system * cost per hour to build the automated system.**
 
 ## Features
 
