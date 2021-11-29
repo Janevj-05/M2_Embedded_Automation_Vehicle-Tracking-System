@@ -8,7 +8,7 @@ This project is about Vehicle Tracking System. This system helps to track the ve
 
 ### HISTORY OF VEHICLE TRACKING SYSTEM
 
-![History of PMS](https://user-images.githubusercontent.com/59198753/142820003-0569fc32-2d4c-404e-a555-ce9a03c4ef6c.jpg)
+
 
 ## Cost Estimation
 
@@ -28,10 +28,10 @@ This project is about Vehicle Tracking System. This system helps to track the ve
 * Computer vision technology to replace human eyes and complement GPS within yards, depots, and distribution centers.
 
 ## SWOT Analysis
-![SWOT Analysis](https://user-images.githubusercontent.com/59198753/142820086-951e7b7b-8fb1-4132-b224-a5388751bb9f.jpg)
+
 
 ## 4 W's & 1 H
-![4w 1h](https://user-images.githubusercontent.com/59198753/142821633-8a7b353d-2478-4df5-90fd-c60b5e75610a.jpg)
+
 
 ## Detail Requirements
 
